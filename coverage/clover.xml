@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1704116186525" clover="3.2.0">
+  <project timestamp="1704116186526" name="All files">
+    <metrics statements="111" coveredstatements="93" conditionals="52" coveredconditionals="42" methods="15" coveredmethods="15" elements="178" coveredelements="150" complexity="0" loc="111" ncloc="111" packages="1" files="2" classes="2"/>
+    <file name="json-parser.ts" path="/Users/anupamaag/Personal/Challanges/json-parser/json-parser.ts">
+      <metrics statements="109" coveredstatements="91" conditionals="52" coveredconditionals="42" methods="15" coveredmethods="15"/>
+      <line num="1" count="5" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="11" count="13" type="stmt"/>
+      <line num="12" count="13" type="stmt"/>
+      <line num="16" count="13" type="stmt"/>
+      <line num="17" count="13" type="stmt"/>
+      <line num="19" count="7" type="stmt"/>
+      <line num="20" count="7" type="stmt"/>
+      <line num="24" count="41" type="cond" truecount="18" falsecount="0"/>
+      <line num="26" count="14" type="stmt"/>
+      <line num="28" count="12" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="48" count="4" type="stmt"/>
+      <line num="50" count="4" type="stmt"/>
+      <line num="53" count="4" type="stmt"/>
+      <line num="59" count="4" type="stmt"/>
+      <line num="60" count="4" type="cond" truecount="0" falsecount="1"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="65" count="4" type="stmt"/>
+      <line num="67" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="71" count="0" type="stmt"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="73" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="78" count="0" type="stmt"/>
+      <line num="80" count="0" type="stmt"/>
+      <line num="81" count="4" type="cond" truecount="0" falsecount="1"/>
+      <line num="82" count="0" type="stmt"/>
+      <line num="83" count="0" type="stmt"/>
+      <line num="84" count="0" type="stmt"/>
+      <line num="86" count="4" type="stmt"/>
+      <line num="90" count="4" type="stmt"/>
+      <line num="91" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="95" count="4" type="stmt"/>
+      <line num="99" count="12" type="stmt"/>
+      <line num="100" count="12" type="stmt"/>
+      <line num="103" count="0" type="stmt"/>
+      <line num="107" count="0" type="stmt"/>
+      <line num="109" count="4" type="stmt"/>
+      <line num="113" count="2" type="stmt"/>
+      <line num="114" count="2" type="stmt"/>
+      <line num="115" count="2" type="stmt"/>
+      <line num="116" count="2" type="stmt"/>
+      <line num="117" count="2" type="stmt"/>
+      <line num="121" count="1" type="stmt"/>
+      <line num="122" count="1" type="stmt"/>
+      <line num="123" count="1" type="stmt"/>
+      <line num="124" count="1" type="stmt"/>
+      <line num="125" count="1" type="stmt"/>
+      <line num="126" count="1" type="stmt"/>
+      <line num="130" count="1" type="stmt"/>
+      <line num="131" count="1" type="stmt"/>
+      <line num="132" count="1" type="stmt"/>
+      <line num="133" count="1" type="stmt"/>
+      <line num="134" count="1" type="stmt"/>
+      <line num="138" count="3" type="stmt"/>
+      <line num="139" count="3" type="stmt"/>
+      <line num="140" count="3" type="stmt"/>
+      <line num="141" count="2" type="stmt"/>
+      <line num="142" count="1" type="stmt"/>
+      <line num="144" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="145" count="0" type="stmt"/>
+      <line num="146" count="1" type="stmt"/>
+      <line num="148" count="2" type="stmt"/>
+      <line num="149" count="2" type="stmt"/>
+      <line num="153" count="14" type="stmt"/>
+      <line num="154" count="14" type="stmt"/>
+      <line num="155" count="14" type="stmt"/>
+      <line num="156" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="157" count="28" type="stmt"/>
+      <line num="158" count="24" type="stmt"/>
+      <line num="160" count="24" type="cond" truecount="2" falsecount="0"/>
+      <line num="161" count="17" type="stmt"/>
+      <line num="162" count="17" type="stmt"/>
+      <line num="163" count="7" type="cond" truecount="1" falsecount="1"/>
+      <line num="164" count="0" type="stmt"/>
+      <line num="165" count="0" type="stmt"/>
+      <line num="166" count="0" type="stmt"/>
+      <line num="168" count="7" type="stmt"/>
+      <line num="171" count="10" type="stmt"/>
+      <line num="172" count="10" type="stmt"/>
+      <line num="176" count="28" type="stmt"/>
+      <line num="177" count="26" type="stmt"/>
+      <line num="178" count="26" type="stmt"/>
+      <line num="179" count="24" type="stmt"/>
+      <line num="183" count="40" type="stmt"/>
+      <line num="184" count="40" type="stmt"/>
+      <line num="185" count="38" type="stmt"/>
+      <line num="186" count="193" type="stmt"/>
+      <line num="187" count="193" type="stmt"/>
+      <line num="189" count="38" type="stmt"/>
+      <line num="190" count="38" type="stmt"/>
+      <line num="194" count="179" type="cond" truecount="3" falsecount="0"/>
+      <line num="195" count="2" type="stmt"/>
+      <line num="200" count="2" type="stmt"/>
+      <line num="202" count="177" type="stmt"/>
+      <line num="203" count="177" type="stmt"/>
+      <line num="209" count="116" type="stmt"/>
+      <line num="213" count="13" type="stmt"/>
+      <line num="214" count="13" type="cond" truecount="3" falsecount="1"/>
+      <line num="215" count="0" type="stmt"/>
+      <line num="216" count="13" type="stmt"/>
+      <line num="221" count="1664" type="stmt"/>
+    </file>
+    <file name="token.ts" path="/Users/anupamaag/Personal/Challanges/json-parser/token.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="5" type="stmt"/>
+      <line num="19" count="5" type="stmt"/>
+    </file>
+  </project>
+</coverage>

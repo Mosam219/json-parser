@@ -1,0 +1,31 @@
+export const NumberToken = {
+  ZERO: "0",
+  ONE: "1",
+  TWO: "2",
+  THREE: "3",
+  FOUR: "4",
+  FIVE: "5",
+  SIX: "6",
+  SEVEN: "7",
+  EIGHT: "8",
+  NINE: "9",
+  DOT: ".",
+  SMALL_EXPONENT: "e",
+  CAPITAL_EXPONENT: "E",
+  PLUS: "+",
+  MINUS: "-",
+};
+
+export const Tokens = {
+  BEGIN_OBJECT: "{",
+  END_OBJECT: "}",
+  COMMA: ",",
+  SPACE: " ",
+  QUOTE: '"',
+  SEMI_COLON: ":",
+  BEGIN_ARRAY: "[",
+  END_ARRAY: "]",
+  BEGIN_TRUE: "t",
+  BEGIN_FALSE: "f",
+  BEGIN_NULL: "n",
+};
